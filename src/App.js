@@ -1,6 +1,5 @@
 
 import React, { useState, useEffect } from 'react';
-import './App.css'; // For basic styling
 import { quotesByAgeAndMood } from './quoteLibrary';
 
 const themes = {
